@@ -34,8 +34,18 @@ Desenvolver um modelo de machine learning para avaliar o risco de crédito e pre
 1. Distribuição de risco por faixa etária
 ![image](https://github.com/user-attachments/assets/60ee17ec-7e76-4b23-8c09-92882e38f93b)
 
-3. Correlação entre renda e inadimplência
-4. Feature importance dos modelos
-5. ROC curves comparativas
-6. Matriz de confusão final
+2. Correlação entre renda e inadimplência
+![image](https://github.com/user-attachments/assets/38b1908e-a86b-471e-b687-15eac7e45750)
+
+3. Feature importance e explicabilidade do modelo
+![image](https://github.com/user-attachments/assets/1f9d325b-70ad-47d0-b7d6-6bba088ce059)
+
+![image](https://github.com/user-attachments/assets/7383eb70-dd81-47cc-9e0c-a8da0ef874fa)
+
+4. ROC curves comparativas
+![image](https://github.com/user-attachments/assets/1b2e46f9-c2b4-4787-b2b5-1cd496244102)
+
+## Conclusão:
+- O modelo que apresentou o melhor desempenho (se olharmos somente para o recall) foi o Light GBM, que após testar várias técnicas de otimização, conseguimos alcançar um valor de recall de 0.78. Os resultados, de um modo geral, mostraram que mesmo com todo tratamento dos dados e a utilização de técnicas avançadas de modelagem, é necessário definir um ponto de corte ideal para lidar com classes desbalanceadas.
+
 
