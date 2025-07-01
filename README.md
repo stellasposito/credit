@@ -37,9 +37,10 @@ Desenvolver um modelo de machine learning para avaliar o risco de crédito e pre
 2. Correlação entre renda e inadimplência
 ![image](https://github.com/user-attachments/assets/38b1908e-a86b-471e-b687-15eac7e45750)
 
-3. Feature importance e explicabilidade do modelo
+3. Feature importance 
 ![image](https://github.com/user-attachments/assets/1f9d325b-70ad-47d0-b7d6-6bba088ce059)
 
+4. Explicabilidade do modelo
 ![image](https://github.com/user-attachments/assets/7383eb70-dd81-47cc-9e0c-a8da0ef874fa)
 
 4. ROC curves comparativas
