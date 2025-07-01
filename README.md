@@ -31,23 +31,19 @@ Desenvolver um modelo de machine learning para avaliar o risco de crédito e pre
 - Precificação de produtos financeiros
 
 ## 📊 Visualizações Principais
-1. Distribuição de risco por faixa etária
+### 1. Distribuição de risco por faixa etária
 ![image](https://github.com/user-attachments/assets/60ee17ec-7e76-4b23-8c09-92882e38f93b)
 
-2. Correlação entre renda e inadimplência
+### 2. Correlação entre renda e inadimplência
 ![image](https://github.com/user-attachments/assets/38b1908e-a86b-471e-b687-15eac7e45750)
 
-3. Feature importance 
+### 3. Feature importance 
 ![image](https://github.com/user-attachments/assets/1f9d325b-70ad-47d0-b7d6-6bba088ce059)
 
-
-
-4. Explicabilidade do modelo
+### 4. Explicabilidade do modelo
 ![image](https://github.com/user-attachments/assets/7383eb70-dd81-47cc-9e0c-a8da0ef874fa)
 
-
-
-4. ROC curves comparativas
+### 4. ROC curves comparativas
 ![image](https://github.com/user-attachments/assets/1b2e46f9-c2b4-4787-b2b5-1cd496244102)
 
 ## Conclusão:
